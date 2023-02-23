@@ -24,7 +24,7 @@
 
 #text1 {
   background-color: rgba(112, 16, 190, 0.61);
-  background-image: url('/imgs/text1.png');
+  background-image: url('./imgs/text1.png');
   background-repeat: no-repeat;
   background-position: center;
   width: 690;
@@ -37,7 +37,7 @@
 
 #text2 {
   background-color: rgba(112, 16, 190, 0.61);
-  background-image: url('/imgs/text2.png');
+  background-image: url('./imgs/text2.png');
   background-repeat: no-repeat;
   background-position: center;
   width: 690;
@@ -58,7 +58,7 @@
 }
 
 #Logo {
-  background-image: url('imgs/Logo.png');
+  background-image: url('./imgs/Logo.png');
   width: 100;
   height: 100;
   position: absolute;
