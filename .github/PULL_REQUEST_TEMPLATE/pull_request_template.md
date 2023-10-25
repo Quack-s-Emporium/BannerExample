@@ -43,5 +43,3 @@ npm start
 | Preview |
 | ------- |
 |         |
-
-{{/unless}}
